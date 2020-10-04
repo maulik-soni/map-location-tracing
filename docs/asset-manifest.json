@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/socket-client/static/css/main.5f361e03.chunk.css",
-    "main.js": "/socket-client/static/js/main.ff165fe1.chunk.js",
-    "main.js.map": "/socket-client/static/js/main.ff165fe1.chunk.js.map",
-    "runtime-main.js": "/socket-client/static/js/runtime-main.40824dc3.js",
-    "runtime-main.js.map": "/socket-client/static/js/runtime-main.40824dc3.js.map",
-    "static/js/2.763b34e5.chunk.js": "/socket-client/static/js/2.763b34e5.chunk.js",
-    "static/js/2.763b34e5.chunk.js.map": "/socket-client/static/js/2.763b34e5.chunk.js.map",
-    "index.html": "/socket-client/index.html",
-    "precache-manifest.ead6dcb4747c47753d89e07d39497eba.js": "/socket-client/precache-manifest.ead6dcb4747c47753d89e07d39497eba.js",
-    "service-worker.js": "/socket-client/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/socket-client/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/socket-client/static/js/2.763b34e5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/socket-client/static/media/logo.5d5d9eef.svg"
+    "main.css": "/map-location-tracing/static/css/main.5f361e03.chunk.css",
+    "main.js": "/map-location-tracing/static/js/main.d2d38606.chunk.js",
+    "main.js.map": "/map-location-tracing/static/js/main.d2d38606.chunk.js.map",
+    "runtime-main.js": "/map-location-tracing/static/js/runtime-main.6111249c.js",
+    "runtime-main.js.map": "/map-location-tracing/static/js/runtime-main.6111249c.js.map",
+    "static/js/2.763b34e5.chunk.js": "/map-location-tracing/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/map-location-tracing/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/map-location-tracing/index.html",
+    "precache-manifest.ca0aae706a1c1aff53b5161a6981aef5.js": "/map-location-tracing/precache-manifest.ca0aae706a1c1aff53b5161a6981aef5.js",
+    "service-worker.js": "/map-location-tracing/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/map-location-tracing/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/map-location-tracing/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/map-location-tracing/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40824dc3.js",
+    "static/js/runtime-main.6111249c.js",
     "static/js/2.763b34e5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ff165fe1.chunk.js"
+    "static/js/main.d2d38606.chunk.js"
   ]
 }
