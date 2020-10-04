@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.ed0de294.chunk.js",
-    "main.js.map": "/static/js/main.ed0de294.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
-    "static/js/2.763b34e5.chunk.js": "/static/js/2.763b34e5.chunk.js",
-    "static/js/2.763b34e5.chunk.js.map": "/static/js/2.763b34e5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a4a89a7ae9b941166d6d519c94ebf9db.js": "/precache-manifest.a4a89a7ae9b941166d6d519c94ebf9db.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/static/js/2.763b34e5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/map-location-tracing/static/css/main.5f361e03.chunk.css",
+    "main.js": "/map-location-tracing/static/js/main.d2d38606.chunk.js",
+    "main.js.map": "/map-location-tracing/static/js/main.d2d38606.chunk.js.map",
+    "runtime-main.js": "/map-location-tracing/static/js/runtime-main.6111249c.js",
+    "runtime-main.js.map": "/map-location-tracing/static/js/runtime-main.6111249c.js.map",
+    "static/js/2.763b34e5.chunk.js": "/map-location-tracing/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/map-location-tracing/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/map-location-tracing/index.html",
+    "precache-manifest.ca0aae706a1c1aff53b5161a6981aef5.js": "/map-location-tracing/precache-manifest.ca0aae706a1c1aff53b5161a6981aef5.js",
+    "service-worker.js": "/map-location-tracing/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/map-location-tracing/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/map-location-tracing/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/map-location-tracing/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/runtime-main.6111249c.js",
     "static/js/2.763b34e5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ed0de294.chunk.js"
+    "static/js/main.d2d38606.chunk.js"
   ]
 }
