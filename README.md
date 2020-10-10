@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# [Map Location Tracing](https://maulik-soni.github.io/map-location-tracing/)
+# Map Location Tracing
+([Demo](https://maulik-soni.github.io/map-location-tracing/))
 
 ## Folder Structure
 ```
