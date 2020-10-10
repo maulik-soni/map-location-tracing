@@ -1,0 +1,6 @@
+.map-data-table{
+	min-width: 450px;
+	min-width: 450px;
+	height: calc(100vh - 84px);
+	overflow: auto;
+}

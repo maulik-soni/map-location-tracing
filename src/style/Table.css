@@ -1,0 +1,40 @@
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableRow-active{
+	background-color: #e1e1e1;	
+}
+.divTableRow:hover{
+	background-color: #e1e1e1;	
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	display: table-cell;
+	padding: 15px 15px;
+	border-bottom: 1px solid #757575;
+	font-weight: 300;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody, .divTableHead {
+	display: table-row-group;
+}
+.divTableHead .divTableCell{
+	vertical-align: middle;
+	text-align: center;
+}

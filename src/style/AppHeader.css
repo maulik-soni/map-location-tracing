@@ -1,0 +1,17 @@
+.app-header{
+  display: flex;
+  background-color: #2d65c9;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.finder-icon{
+  margin: 0 10px 0 0;
+}
+
+.finder-icon svg{
+  cursor: pointer;
+  vertical-align: bottom;
+}
